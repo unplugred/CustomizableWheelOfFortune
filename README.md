@@ -16,3 +16,6 @@ F11 to toggle fullscreen, ESC to quit.
 ## Screenshots
 ![Screenshot1](https://github.com/AriHanan/CustomizableWheelOfFortune/raw/master/readmestuff/GIF1.gif "Screenshot1")
 ![Screenshot2](https://github.com/AriHanan/CustomizableWheelOfFortune/raw/master/readmestuff/GIF2.gif "Screenshot2")
+
+## License
+This software is licensed under the MIT license, found [here](https://github.com/AriHanan/CustomizableWheelOfFortune/blob/master/LICENSE)
