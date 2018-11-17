@@ -1,0 +1,8 @@
+edit
+the
+participants.txt
+file
+in
+the
+game
+folder
